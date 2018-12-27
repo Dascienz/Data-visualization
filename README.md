@@ -4,7 +4,7 @@ This repo contains my data visualizations.
 
 ## Housing Vacancies by State
 
-<p align="center"><img width="600" height="1000" src="us-census-housing/img/Housing_Vacancies_by_State.png"></p>
+<p align="center"><img width="800" height="1200" src="us-census-housing/img/Housing_Vacancies_by_State.png"></p>
 
 You can check out the code [here](us-census-housing/Housing_Vacancy_Polarplots.ipynb)!
 
