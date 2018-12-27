@@ -1,6 +1,4 @@
-This repo contains my data visualizations.
-
-<br>
+Repo contains data visualizations.
 
 ## Housing Vacancies by State
 
